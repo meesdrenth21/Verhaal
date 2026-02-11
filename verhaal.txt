@@ -4,3 +4,4 @@ Welk dier kan langer zijn adem inhouden?
 
 A: jaguar
 B: Dolfijn
+C: ijsbeer
